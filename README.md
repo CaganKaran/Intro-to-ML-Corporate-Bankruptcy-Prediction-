@@ -34,8 +34,9 @@ Fatih Bedir - 1306220024
 
 ## How to Run
 1. Clone this repository.
-2. Install the required libraries:
+2. Download the dataset from given link.
+3. Install the required libraries:
    ```bash
    pip install -r requirements.txt
-3. Open main.ipynb
-4. Run all cells to reproduce the experiments.
+4. Open main.ipynb
+5. Run all cells to reproduce the experiments.
