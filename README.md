@@ -1,6 +1,6 @@
-#İstanbul University-Cerrahpaşa | Introduction to Machine Learning | Final Project
+## İstanbul University-Cerrahpaşa | Introduction to Machine Learning | Final Project
 
-#Corporate Bankruptcy Prediction on Taiwanese Bankruptcy Prediction Dataset
+## Corporate Bankruptcy Prediction on Taiwanese Bankruptcy Prediction Dataset
 
 ## Project Overview
 This project applies machine learning techniques to predict corporate bankruptcy using financial data from the Taiwan Economic Journal (1999–2009). By analyzing 95 quantitative financial features, we aim to build a robust binary classifier that can identify companies at risk of financial distress.
